@@ -1,0 +1,17 @@
+#MyEclipse Hibernate Properties
+#Wed Nov 09 10:56:18 GMT+08:00 2016
+genVersionTag=false
+sessionFactoryName=com.healthy.cn.HibernateSessionFactory
+genAnnotations=false
+configFile=/Healthy/src/applicationContext.xml
+reStrategyClass=
+sessionFactoryId=sessionFactory
+profile=
+detectM2M=false
+genBasicCompId=false
+keyGenerator=
+createConfigFile=true
+basePersistenceClass=
+detectO2O=false
+useJavaTypes=true
+reSettingsFile=
